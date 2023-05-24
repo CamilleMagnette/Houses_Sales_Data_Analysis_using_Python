@@ -14,14 +14,13 @@ Python (plotly, Seaborn) avec JupyterLab, Datapane
 [Datasets](https://raw.githubusercontent.com/murpi/wilddata/master/quests/kc_house_data.csv)
 
 
-## 📎 ✅ Méthodologie technique :
+## ✅ Etapes :
 
-1) [Nettoyage de données et transformation](https://github.com/CamilleMagnette/festival/blob/main/JUPITERLAB/notebook%20choix%20du%20dataset%20et%20problematique.ipynb)
+1) Nettoyage et analyse de la base de données
+2) Regression linéaire et prédiction
 
-2) [Analyse de la base de données 📊](https://github.com/CamilleMagnette/festival/blob/main/JUPITERLAB/Analyse_des_datasets_hackathon.ipynb)
-
-3) [Regression linéaire et prédiction] 👨‍💻  :
+### [👨‍💻 **LIEN NOTEBOOK** 📊](https://github.com/CamilleMagnette/Regression_houses_sales/blob/main/Regression%20House%20sales%20-%20Camille%20Magnette.ipynb)
   
-4) Publication de l'interface de présentation sur Datapane :
+3) Publication de l'interface de présentation sur Datapane :
 
 ### [🌸🌸 **LIEN DE L'INTERFACE** 🌸🌸](https://cloud.datapane.com/reports/VkGQ523/regression-house-sales/)
