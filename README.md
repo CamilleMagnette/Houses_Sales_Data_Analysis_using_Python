@@ -10,7 +10,7 @@ The last 4 rows don't have price. You'll have to predict prices and print your p
 ## ⚙️ Outils principaux : 
 Python (plotly, Seaborn) avec JupyterLab, Datapane 
 
-## 🏠 Source des données :  
+## 🔍 Source des données :  
 [Datasets](https://raw.githubusercontent.com/murpi/wilddata/master/quests/kc_house_data.csv)
 
 
