@@ -1,8 +1,8 @@
-# Analyse ventes de maisons à Seattle :
+# 🏠 Houses_Sales_Data_Analysis_using_Python
 
 ## 🎯 Objectif du projet :
 
-Analyser le dataset et réaliser une regression linéaire (target = prix de vente) afin de prédire le prix de vente des lignes où il n'y a pas de données
+Analyser les ventes de maisons à Seattle et réaliser une regression linéaire (target = prix de vente) afin de prédire le prix de vente des lignes où il n'y a pas de données
 
 "Perform a variety of linear regressions with different inputs. It's up to you to find the most relevant X variables. The target (y) will be the price column. Remember to train-test split your dataset to get a relevant score, and print your test-set R2-score. Compare it with Train score to avoid overfitting.
 The last 4 rows don't have price. You'll have to predict prices and print your prediction."
